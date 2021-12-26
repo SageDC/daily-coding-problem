@@ -9,7 +9,7 @@ def main():
     for i in range(len(numList)):
         if numList[placekeeper] + numList[i] == sum_k and placekeeper != i:
             return True
-        elif i == 3:
+        elif i == len(numList) - 1:
             placekeeper = placekeeper + 1
     return False
 
