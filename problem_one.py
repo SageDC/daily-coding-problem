@@ -1,3 +1,5 @@
+# Questions asked by Google (Easy)
+
 def main():
     # arguments
     numList = [10, 15, 3, 7]
