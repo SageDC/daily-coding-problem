@@ -1,4 +1,4 @@
-# Questions asked by Google (Easy)
+# Question asked by Google (Easy)
 
 def main():
     # arguments
